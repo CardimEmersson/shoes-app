@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "65602419732",
+    "project_id": "shoesapp-bf09d",
+    "storage_bucket": "shoesapp-bf09d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:65602419732:android:e02ae0b7dabdfbd5687b01",
+        "android_client_info": {
+          "package_name": "com.emersson.shoesapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "65602419732-tg35b8m66me4blo0figrml68dtks6v0u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATED8YeIGJiI-UvDv5QUN6fVFTTf7WDTk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "65602419732-tg35b8m66me4blo0figrml68dtks6v0u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
