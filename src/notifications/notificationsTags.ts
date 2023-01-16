@@ -10,3 +10,7 @@ export function tagUserInfoCreate(name: string, email: string) {
     'user_email': email,
   });
 }
+
+export function tagCartUpdate(itemsCount: string) {
+  OneSignal.sendTag('cart_items_count', itemsCount);
+}
